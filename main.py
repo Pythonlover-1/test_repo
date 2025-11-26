@@ -5,6 +5,9 @@
 
 
 def print_hello(name):
+    '''
+    Крутая дока
+    '''
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
 
